@@ -8,10 +8,11 @@
 <body>
 
 	<h1>Despliegue desde GitHub</h1>
+	<h3>Prueba</h3>
 
 	<?php
 		phpinfo();
-
+		
 	?>
 
 </body>
